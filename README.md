@@ -25,7 +25,7 @@
 
 💻 Software Developer passionate about building scalable full-stack web applications and solving real-world problems through clean, efficient code.
 
-🚀 Experienced in developing responsive web applications using React.js, JavaScript, Node.js, Express.js, Java, Spring Boot, and MySQL. I enjoy creating modern user interfaces, designing REST APIs, integrating third-party services, and deploying applications using CI/CD pipelines.
+🚀 Experienced in developing responsive web applications using React.js, JavaScript, Node.js, Express.js and MySQL. I enjoy creating modern user interfaces, designing REST APIs, integrating third-party services, and deploying applications using CI/CD pipelines.
 
 🌱 Currently exploring React Native, AWS Cloud, Microservices, Docker, System Design, and scalable backend architectures to build enterprise-level applications.
 
