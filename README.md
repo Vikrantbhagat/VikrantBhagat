@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Vikrant Bhagat</h1>
-<h3 align="center">💻 Software Developer & React.js Developer | React.js | Node.js | Express.js | MongoDB | TypeScript | MySQL | GitHub Actions (CI/CD) | Linux | VPS | Java | Spring Boot </h3>
+<h3 align="center">💻 Software Developer| React.js | Node.js | Express.js | MongoDB | TypeScript | MySQL | GitHub Actions (CI/CD) | Linux | VPS | Java | Spring Boot </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudesh3103&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
@@ -130,10 +130,10 @@
 <!-- Connect Section -->
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/sudesh-kalokhe" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sudeshkalokhe3103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://sudesh3103.github.io/SudeshKalokhe_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/Sudesh3103"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/vikrant-bhagat-671b0b348" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="bhagatvikrant56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://my-portfolio-phi-three-20.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Vikrantbhagat"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
